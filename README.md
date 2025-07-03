@@ -22,7 +22,7 @@ stored as comma-separated values
 Total Records: 1,465 rows
 TotalFields: 16 columns
 
-## Analysis Tasks and Key Business Operations
+## Analysis Tasks and Key Business Operations (Exploratory Data Analysis)
 
 1. What is the average discount percentage by product category?
 2. How many products are listed under each category?
@@ -46,3 +46,37 @@ The following process is the skeletal dreakdown of the pathway for the Analysis
 ### 2. Pivot Tables
     I Built multiple pivot tables to answer key business questions: Average discount per category, Product count per category, Total reviews and average ratings by product, Price comparisons and some other relevants KPIs. 
 
+### 3. Charts and Visual Dashboard Design
+    Creation of  clean, user-friendly visualizations using; Column Charts, Bar Charts, Comparison Charts (Actual vs Discounted Prices) and Organized everything into a simple, scrollable dashboard.
+
+## Insights and Recommendations
+### Insights
+- **High Discount Impact**
+    - A total of 751 products offer a 50% discount or more, showing aggressive discount strategies, especially in Health & Personal Care, Home & Kitchen, and Musical Instruments.
+    - The top 3 categories with the highest average discount include:
+       - Musical Instruments
+      - Health & Personal Care
+      - Home & Kitchen
+
+- **Product Engagement through Reviews**
+  - **USB Cables**, **Smart Watches**, and **Smart Phones** are the ***most reviewed products***, with **USB Cables** leading at **233 reviews**.
+  - Categories with **more than 500 products** like **Electronics** and **Health & Personal Care** have high potential for customer engagement.
+  
+- **Top-Rated Products**
+  - All Top 3 Rated Products (Amazon Basics Mouse, HeadCable USB-C, and Synoviz Lag USB) received 5.0 ratings, indicating excellent customer satisfaction.
+
+Price vs. Rating Relationship
+
+The average rating is highest in the lowest (<₦1000) and highest (>₦5000) price buckets (4.1 stars), suggesting perceived value is either in affordability or premium quality.
+
+Middle price ranges show slightly lower ratings (around 4.0), possibly due to price-performance expectations.
+
+Potential Revenue Hotspots
+
+Electronics show the highest potential revenue (₦98,020.8K), making it the most lucrative category despite stiff competition.
+
+This is followed by Computers & Accessories and Home & Kitchen, with substantial revenue prospects.
+
+Category Saturation
+
+Product count distribution reveals Electronics, Health & Personal Care, and Home & Kitchen are saturated categories, while Car & Motorbike and Office Products have limited products listed.
