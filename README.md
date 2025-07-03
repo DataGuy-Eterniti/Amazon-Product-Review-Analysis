@@ -42,13 +42,14 @@ TotalFields: 16 columns   [Download the Excel File](https://github.com/DataGuy-E
 The following process is the skeletal dreakdown of the pathway for the Analysis
 
 ### 1. Data Extraction and Cleaning
-- The Dataset was loaded to Microsoft Excel and the key columns was identified for perfect understanding of the framework of the dataset, after which the data cleaning commenced using ower Query in Excel where duplicate records were removed, proper formatting was applied to each columns, additional calculated colmns were also created.
+- The Dataset was loaded to Microsoft Excel and the key columns was identified for perfect understanding of the framework of the dataset, after which the data cleaning commenced using ower Query in Excel where duplicate records were removed, proper formatting was applied to each columns, additional calculated colmns were also created. [Cleaned DataSET](https://github.com/DataGuy-Eterniti/Amazon-Product-Review-Analysis/blob/main/Amazon%20Cleaned%20DataSet.png)
 
 ### 2. Pivot Tables
--I Built multiple pivot tables to answer key business questions: Average discount per category, Product count per category, Total reviews and average ratings by product, Price comparisons and some other relevants KPIs. 
+-I Built multiple pivot tables to answer key business questions: Average discount per category, Product count per category, Total reviews and average ratings by product, Price comparisons and some other relevants KPIs.[Pivot Tables](https://github.com/DataGuy-Eterniti/Amazon-Product-Review-Analysis/blob/main/Pivot%20Tables%201%20and%202.png) 
 
 ### 3. Charts and Visual Dashboard Design
 - Creation of  clean, user-friendly visualizations using; Column Charts, Bar Charts, Comparison Charts (Actual vs Discounted Prices) and Organized everything into a simple, scrollable dashboard.
+[Dashboard OverView](https://github.com/DataGuy-Eterniti/Amazon-Product-Review-Analysis/blob/main/Amazon%20Product%20analysis%20P1.png)
 
 # Insights and Recommendations
 
@@ -58,14 +59,14 @@ The following process is the skeletal dreakdown of the pathway for the Analysis
     - The top 3 categories with the highest average discount include:
        - Musical Instruments
       - Health & Personal Care
-      - Home & Kitchen
+      - Home & Kitchen [Discount By Category](https://github.com/DataGuy-Eterniti/Amazon-Product-Review-Analysis/blob/main/Average%20discount%20Per%20product%20category%20Pivot.png)
 
 - **Product Engagement through Reviews**
   - **USB Cables**, **Smart Watches**, and **Smart Phones** are the ***most reviewed products***, with **USB Cables** leading at **233 reviews**.
-  - Categories with **more than 500 products** like **Electronics** and **Health & Personal Care** have high potential for customer engagement.
+  - Categories with **more than 500 products** like **Electronics** and **Health & Personal Care** have high potential for customer engagement.[Product Review Analysis](https://github.com/DataGuy-Eterniti/Amazon-Product-Review-Analysis/blob/main/Total%20Reviews%20per%20category.png)
   
 - **Top-Rated Products**
-  - All Top 3 Rated Products (Amazon Basics Mouse, HeadCable USB-C, and Synoviz Lag USB) received 5.0 ratings, indicating excellent customer satisfaction.
+  - All Top 3 Rated Products (Amazon Basics Mouse, HeadCable USB-C, and Synoviz Lag USB) received 5.0 ratings, indicating excellent customer satisfaction.[Top 3 Rated Products](https://github.com/DataGuy-Eterniti/Amazon-Product-Review-Analysis/blob/main/Top%203%20most%20reviewed%20Products.png)
 
 - **Price vs Rating Relationship**
   - The **average rating is highest** in the **lowest (<₦1000)** and **highest (>₦5000)** price buckets *(4.1 stars)*, suggesting perceived value is either in affordability or premium quality.
@@ -76,6 +77,8 @@ The following process is the skeletal dreakdown of the pathway for the Analysis
 
 - **Produt Categorical Distribution**
   - Product count distribution reveals **Electronics**, **Health & Personal Care**, and **Home & Kitchen** are cconcentration categories, while **Car & Motorbike** and **Office Products** have limited products listed.
+    [Final Dashboard](https://github.com/DataGuy-Eterniti/Amazon-Product-Review-Analysis/blob/main/Amazon%20Product%20analysis%20P1.png)
+    [Final Dashboard 2](https://github.com/DataGuy-Eterniti/Amazon-Product-Review-Analysis/blob/main/Amazon%20Project%20analysis%20P2.png)
 
 ## Recommendations
 
