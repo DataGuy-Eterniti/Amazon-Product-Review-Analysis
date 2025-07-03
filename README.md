@@ -59,14 +59,14 @@ The following process is the skeletal dreakdown of the pathway for the Analysis
     - The top 3 categories with the highest average discount include:
        - Musical Instruments
       - Health & Personal Care
-      - Home & Kitchen [Discount By Category](https://github.com/DataGuy-Eterniti/Amazon-Product-Review-Analysis/blob/main/Average%20discount%20Per%20product%20category%20Pivot.png)
+      - Home & Kitchen 
 
 - **Product Engagement through Reviews**
   - **USB Cables**, **Smart Watches**, and **Smart Phones** are the ***most reviewed products***, with **USB Cables** leading at **233 reviews**.
-  - Categories with **more than 500 products** like **Electronics** and **Health & Personal Care** have high potential for customer engagement.[Product Review Analysis](https://github.com/DataGuy-Eterniti/Amazon-Product-Review-Analysis/blob/main/Total%20Reviews%20per%20category.png)
-  
+  - Categories with **more than 500 products** like **Electronics** and **Health & Personal Care** have high potential for customer engagement.
+    
 - **Top-Rated Products**
-  - All Top 3 Rated Products (Amazon Basics Mouse, HeadCable USB-C, and Synoviz Lag USB) received 5.0 ratings, indicating excellent customer satisfaction.[Top 3 Rated Products](https://github.com/DataGuy-Eterniti/Amazon-Product-Review-Analysis/blob/main/Top%203%20most%20reviewed%20Products.png)
+  - All Top 3 Rated Products (Amazon Basics Mouse, HeadCable USB-C, and Synoviz Lag USB) received 5.0 ratings, indicating excellent customer satisfaction.
 
 - **Price vs Rating Relationship**
   - The **average rating is highest** in the **lowest (<₦1000)** and **highest (>₦5000)** price buckets *(4.1 stars)*, suggesting perceived value is either in affordability or premium quality.
@@ -78,7 +78,7 @@ The following process is the skeletal dreakdown of the pathway for the Analysis
 - **Produt Categorical Distribution**
   - Product count distribution reveals **Electronics**, **Health & Personal Care**, and **Home & Kitchen** are cconcentration categories, while **Car & Motorbike** and **Office Products** have limited products listed.
 
-  ![image Alt](https://github.com/DataGuy-Eterniti/Amazon-Product-Review-Analysis/blob/2e12ff63ece4d64b900cf953289de937c82e1f49/Amazon%20Product%20analysis%20P1.png)
+  ![image Alt](.https://github.com/DataGuy-Eterniti/Amazon-Product-Review-Analysis/blob/2e12ff63ece4d64b900cf953289de937c82e1f49/Amazon%20Product%20analysis%20P1.png)
   
   
 
