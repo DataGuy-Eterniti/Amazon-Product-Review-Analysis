@@ -77,8 +77,10 @@ The following process is the skeletal dreakdown of the pathway for the Analysis
 
 - **Produt Categorical Distribution**
   - Product count distribution reveals **Electronics**, **Health & Personal Care**, and **Home & Kitchen** are cconcentration categories, while **Car & Motorbike** and **Office Products** have limited products listed.
-    [Final Dashboard](https://github.com/DataGuy-Eterniti/Amazon-Product-Review-Analysis/blob/main/Amazon%20Product%20analysis%20P1.png)
-    [Final Dashboard 2](https://github.com/DataGuy-Eterniti/Amazon-Product-Review-Analysis/blob/main/Amazon%20Project%20analysis%20P2.png)
+
+  ![image Alt](https://github.com/DataGuy-Eterniti/Amazon-Product-Review-Analysis/blob/2e12ff63ece4d64b900cf953289de937c82e1f49/Amazon%20Product%20analysis%20P1.png)
+  
+  
 
 ## Recommendations
 
