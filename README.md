@@ -2,6 +2,7 @@
 
 ## Author
 **Adeniji Elijah Adetomiwa**
+(**Junior Data Analyst**)
 
 ## Submission Date
 July 2025
@@ -15,9 +16,9 @@ This case study is Key deliverable as part of my final lap in the *Digital Skill
 
 ### DataSet Description
 The dataset contains information scraped from Amazon product pages, including:
-• Product details: name, category, price, discount, and ratings
-• Customer engagement: user reviews, titles, and content
-• Each row represents a unique product, with aggregated reviewer data
+- Product details: name, category, price, discount, and ratings
+- Customer engagement: user reviews, titles, and content
+- Each row represents a unique product, with aggregated reviewer data
 stored as comma-separated values
 Total Records: 1,465 rows
 TotalFields: 16 columns
@@ -41,16 +42,17 @@ TotalFields: 16 columns
 The following process is the skeletal dreakdown of the pathway for the Analysis
 
 ### 1. Data Extraction and Cleaning
-    The Dataset was loaded to Microsoft Excel and the key columns was identified for perfect understanding of the framework of the dataset, after which the data cleaning commenced using ower Query in Excel where duplicate records were removed, proper formatting was applied to each columns, additional calculated colmns were also created.
+- The Dataset was loaded to Microsoft Excel and the key columns was identified for perfect understanding of the framework of the dataset, after which the data cleaning commenced using ower Query in Excel where duplicate records were removed, proper formatting was applied to each columns, additional calculated colmns were also created.
 
 ### 2. Pivot Tables
-    I Built multiple pivot tables to answer key business questions: Average discount per category, Product count per category, Total reviews and average ratings by product, Price comparisons and some other relevants KPIs. 
+-I Built multiple pivot tables to answer key business questions: Average discount per category, Product count per category, Total reviews and average ratings by product, Price comparisons and some other relevants KPIs. 
 
 ### 3. Charts and Visual Dashboard Design
-    Creation of  clean, user-friendly visualizations using; Column Charts, Bar Charts, Comparison Charts (Actual vs Discounted Prices) and Organized everything into a simple, scrollable dashboard.
+- Creation of  clean, user-friendly visualizations using; Column Charts, Bar Charts, Comparison Charts (Actual vs Discounted Prices) and Organized everything into a simple, scrollable dashboard.
 
-## Insights and Recommendations
-### Insights
+# Insights and Recommendations
+
+## Insights
 - **High Discount Impact**
     - A total of 751 products offer a 50% discount or more, showing aggressive discount strategies, especially in Health & Personal Care, Home & Kitchen, and Musical Instruments.
     - The top 3 categories with the highest average discount include:
@@ -72,5 +74,24 @@ The following process is the skeletal dreakdown of the pathway for the Analysis
   - **Electronics** show the **highest potential revenue (₦98,020.8K)**, making it the most lucrative category despite stiff competition.
   - This is followed by **Computers & Accessories** and **Home & Kitchen**, with substantial revenue prospects.
 
--**Produt Categorical Distribution**
+- **Produt Categorical Distribution**
   - Product count distribution reveals **Electronics**, **Health & Personal Care**, and **Home & Kitchen** are cconcentration categories, while **Car & Motorbike** and **Office Products** have limited products listed.
+
+## Recommendations
+
+1. **Focus on High-Performance Categories**  
+   - Boost visibility and promotions in **Electronics** and **Health & Personal Care**.
+
+2. **Scale Up Niche Categories**  
+   - Expand underrepresented categories like **Office Products** and **Car & Motorbike**.
+
+3. **Optimize Discounting Strategy**  
+   - Sustain smart discounting where effective; avoid over-discounting highly-rated budget items.
+
+4. **Promote High-Rated Products**  
+   - Leverage reviews and testimonials from top-rated items in campaigns.
+
+5. **Improve Mid-Range Offerings**  
+   - Analyze and enhance product quality in the ₦2001–₦4000 range with slightly lower ratings.
+
+---
