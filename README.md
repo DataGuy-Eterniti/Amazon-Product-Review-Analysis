@@ -79,19 +79,10 @@ The following process is the skeletal dreakdown of the pathway for the Analysis
 
 ## Recommendations
 
-1. **Focus on High-Performance Categories**  
-   - Boost visibility and promotions in **Electronics** and **Health & Personal Care**.
-
-2. **Scale Up Niche Categories**  
-   - Expand underrepresented categories like **Office Products** and **Car & Motorbike**.
-
-3. **Optimize Discounting Strategy**  
-   - Sustain smart discounting where effective; avoid over-discounting highly-rated budget items.
-
-4. **Promote High-Rated Products**  
-   - Leverage reviews and testimonials from top-rated items in campaigns.
-
-5. **Improve Mid-Range Offerings**  
-   - Analyze and enhance product quality in the ₦2001–₦4000 range with slightly lower ratings.
+- **Focus on High-Performance Categories**, Boost visibility and promotions in **Electronics** and **Health & Personal Care**.
+- Expand underrepresented categories like **Office Products** and **Car & Motorbike**.
+- Sustain smart discounting where effective; avoid over-discounting highly-rated budget items.
+- **Promote High-Rated Products**, Leverage reviews and testimonials from top-rated items in campaigns.
+- **Improve Mid-Range Offerings** and enhance product quality in the ₦2001–₦4000 range with slightly lower ratings.
 
 ---
