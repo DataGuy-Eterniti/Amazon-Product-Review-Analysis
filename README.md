@@ -21,7 +21,7 @@ The dataset contains information scraped from Amazon product pages, including:
 - Each row represents a unique product, with aggregated reviewer data
 stored as comma-separated values
 Total Records: 1,465 rows
-TotalFields: 16 columns
+TotalFields: 16 columns   [Download the Excel File](https://github.com/DataGuy-Eterniti/Amazon-Product-Review-Analysis/blob/main/Amazon%20case%20study.xlsx)
 
 ## Analysis Tasks and Key Business Operations (Exploratory Data Analysis)
 
