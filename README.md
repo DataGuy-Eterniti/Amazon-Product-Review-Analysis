@@ -42,14 +42,13 @@ TotalFields: 16 columns   [Download the Excel File](https://github.com/DataGuy-E
 The following process is the skeletal dreakdown of the pathway for the Analysis
 
 ### 1. Data Extraction and Cleaning
-- The Dataset was loaded to Microsoft Excel and the key columns was identified for perfect understanding of the framework of the dataset, after which the data cleaning commenced using ower Query in Excel where duplicate records were removed, proper formatting was applied to each columns, additional calculated colmns were also created. [Cleaned DataSET](https://github.com/DataGuy-Eterniti/Amazon-Product-Review-Analysis/blob/main/Amazon%20Cleaned%20DataSet.png)
-
+- The Dataset was loaded to Microsoft Excel and the key columns was identified for perfect understanding of the framework of the dataset, after which the data cleaning commenced using ower Query in Excel where duplicate records were removed, proper formatting was applied to each columns, additional calculated colmns were also created.
+  
 ### 2. Pivot Tables
--I Built multiple pivot tables to answer key business questions: Average discount per category, Product count per category, Total reviews and average ratings by product, Price comparisons and some other relevants KPIs.[Pivot Tables](https://github.com/DataGuy-Eterniti/Amazon-Product-Review-Analysis/blob/main/Pivot%20Tables%201%20and%202.png) 
+-I Built multiple pivot tables to answer key business questions: Average discount per category, Product count per category, Total reviews and average ratings by product, Price comparisons and some other relevants KPIs.
 
 ### 3. Charts and Visual Dashboard Design
 - Creation of  clean, user-friendly visualizations using; Column Charts, Bar Charts, Comparison Charts (Actual vs Discounted Prices) and Organized everything into a simple, scrollable dashboard.
-[Dashboard OverView](https://github.com/DataGuy-Eterniti/Amazon-Product-Review-Analysis/blob/main/Amazon%20Product%20analysis%20P1.png)
 
 # Insights and Recommendations
 
@@ -78,7 +77,6 @@ The following process is the skeletal dreakdown of the pathway for the Analysis
 - **Produt Categorical Distribution**
   - Product count distribution reveals **Electronics**, **Health & Personal Care**, and **Home & Kitchen** are cconcentration categories, while **Car & Motorbike** and **Office Products** have limited products listed.
 
-  ![image Alt](.https://github.com/DataGuy-Eterniti/Amazon-Product-Review-Analysis/blob/2e12ff63ece4d64b900cf953289de937c82e1f49/Amazon%20Product%20analysis%20P1.png)
   
   
 
