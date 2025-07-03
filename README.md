@@ -34,7 +34,7 @@ TotalFields: 16 columns   [Download the Excel File](https://github.com/DataGuy-E
 
 ## Tools Used
 
-- Microsoft Excel (Pivot Tables, Formulas, Charts)
+- Microsoft Excel (Pivot Tables, Formulas, Charts) [Download Excel for Desktop](https://www.microsoft.com/en-us/microsoft-365/excel)
 - Visualizations: Column Charts, Bar Charts, Pie Charts.
 
 ## Workflow & Methodology
