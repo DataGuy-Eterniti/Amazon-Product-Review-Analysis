@@ -65,18 +65,12 @@ The following process is the skeletal dreakdown of the pathway for the Analysis
 - **Top-Rated Products**
   - All Top 3 Rated Products (Amazon Basics Mouse, HeadCable USB-C, and Synoviz Lag USB) received 5.0 ratings, indicating excellent customer satisfaction.
 
-Price vs. Rating Relationship
+- **Price vs Rating Relationship**
+  - The **average rating is highest** in the **lowest (<₦1000)** and **highest (>₦5000)** price buckets *(4.1 stars)*, suggesting perceived value is either in affordability or premium quality.
 
-The average rating is highest in the lowest (<₦1000) and highest (>₦5000) price buckets (4.1 stars), suggesting perceived value is either in affordability or premium quality.
+- **Potential Revenue Lookout Points**
+  - **Electronics** show the **highest potential revenue (₦98,020.8K)**, making it the most lucrative category despite stiff competition.
+  - This is followed by **Computers & Accessories** and **Home & Kitchen**, with substantial revenue prospects.
 
-Middle price ranges show slightly lower ratings (around 4.0), possibly due to price-performance expectations.
-
-Potential Revenue Hotspots
-
-Electronics show the highest potential revenue (₦98,020.8K), making it the most lucrative category despite stiff competition.
-
-This is followed by Computers & Accessories and Home & Kitchen, with substantial revenue prospects.
-
-Category Saturation
-
-Product count distribution reveals Electronics, Health & Personal Care, and Home & Kitchen are saturated categories, while Car & Motorbike and Office Products have limited products listed.
+-**Produt Categorical Distribution**
+  - Product count distribution reveals **Electronics**, **Health & Personal Care**, and **Home & Kitchen** are cconcentration categories, while **Car & Motorbike** and **Office Products** have limited products listed.
