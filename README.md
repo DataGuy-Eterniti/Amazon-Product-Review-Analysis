@@ -31,3 +31,18 @@ TotalFields: 16 columns
 5. What is the average actual price vs. the discounted price by category?
 6. Which products have the highest number of reviews?
 
+## Tools Used
+
+- Microsoft Excel (Pivot Tables, Formulas, Charts)
+- Visualizations: Column Charts, Bar Charts, Pie Charts.
+
+## Workflow & Methodology
+
+The following process is the skeletal dreakdown of the pathway for the Analysis
+
+### 1. Data Extraction and Cleaning
+    The Dataset was loaded to Microsoft Excel and the key columns was identified for perfect understanding of the framework of the dataset, after which the data cleaning commenced using ower Query in Excel where duplicate records were removed, proper formatting was applied to each columns, additional calculated colmns were also created.
+
+### 2. Pivot Tables
+    I Built multiple pivot tables to answer key business questions: Average discount per category, Product count per category, Total reviews and average ratings by product, Price comparisons and some other relevants KPIs. 
+
