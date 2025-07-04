@@ -43,16 +43,19 @@ The following process is the skeletal dreakdown of the pathway for the Analysis
 
 ### 1. Data Extraction and Cleaning
 - The Dataset was loaded to Microsoft Excel and the key columns was identified for perfect understanding of the framework of the dataset, after which the data cleaning commenced using ower Query in Excel where duplicate records were removed, proper formatting was applied to each columns, additional calculated colmns were also created.
+  
 ![Amazon Cleaned DataSet](https://github.com/user-attachments/assets/de3f2b65-1db0-40a3-95f6-75f6941772d9)
 
   
 ### 2. Pivot Tables
 - I Built multiple pivot tables to answer key business questions: Average discount per category, Product count per category, Total reviews and average ratings by product, Price comparisons and some other relevants KPIs.
+  
 ![Pivot Tables 1 and 2](https://github.com/user-attachments/assets/6c115b5f-ada3-4b82-b390-9ff467d98802)
 
 
 ### 3. Charts and Visual Dashboard Design
 - Creation of  clean, user-friendly visualizations using; Column Charts, Bar Charts, Comparison Charts (Actual vs Discounted Prices) and Organized everything into a simple, scrollable dashboard.
+  
 ![Amazon Product analysis P1](https://github.com/user-attachments/assets/56d51436-657f-4f4c-ac16-5ca134f6fbc7)
 
 
@@ -60,18 +63,27 @@ The following process is the skeletal dreakdown of the pathway for the Analysis
 
 ## Insights
 - **High Discount Impact**
-    - A total of 751 products offer a 50% discount or more, showing aggressive discount strategies, especially in Health & Personal Care, Home & Kitchen, and Musical Instruments.
+    - A total of **751 products** offer a 50% discount or more, showing aggressive discount strategies, especially in Health & Personal Care, Home & Kitchen, and Musical Instruments.
     - The top 3 categories with the highest average discount include:
-       - Musical Instruments
+      - Musical Instruments
       - Health & Personal Care
-      - Home & Kitchen 
+      - Home & Kitchen
+        
+![Average discount Per product category Pivot](https://github.com/user-attachments/assets/b63ea967-27ec-46d9-bec5-845c7d6e32f6)
+
 
 - **Product Engagement through Reviews**
   - **USB Cables**, **Smart Watches**, and **Smart Phones** are the ***most reviewed products***, with **USB Cables** leading at **233 reviews**.
   - Categories with **more than 500 products** like **Electronics** and **Health & Personal Care** have high potential for customer engagement.
+
+![Total Reviews per category](https://github.com/user-attachments/assets/fe0d18d6-11ba-4b33-82f7-4a6d12cd3aa3)
+
     
 - **Top-Rated Products**
   - All Top 3 Rated Products (Amazon Basics Mouse, HeadCable USB-C, and Synoviz Lag USB) received 5.0 ratings, indicating excellent customer satisfaction.
+ 
+  ![Top 3 most reviewed Products](https://github.com/user-attachments/assets/8add50ed-7065-45aa-a827-3f9daf6a827a)
+
 
 - **Price vs Rating Relationship**
   - The **average rating is highest** in the **lowest (<₦1000)** and **highest (>₦5000)** price buckets *(4.1 stars)*, suggesting perceived value is either in affordability or premium quality.
@@ -82,6 +94,9 @@ The following process is the skeletal dreakdown of the pathway for the Analysis
 
 - **Produt Categorical Distribution**
   - Product count distribution reveals **Electronics**, **Health & Personal Care**, and **Home & Kitchen** are cconcentration categories, while **Car & Motorbike** and **Office Products** have limited products listed.
+ 
+![Amazon Project analysis P2](https://github.com/user-attachments/assets/498845a0-0007-470a-a8f8-02070602d98c)
+
 
 
 ## Recommendations
