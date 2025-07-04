@@ -43,12 +43,18 @@ The following process is the skeletal dreakdown of the pathway for the Analysis
 
 ### 1. Data Extraction and Cleaning
 - The Dataset was loaded to Microsoft Excel and the key columns was identified for perfect understanding of the framework of the dataset, after which the data cleaning commenced using ower Query in Excel where duplicate records were removed, proper formatting was applied to each columns, additional calculated colmns were also created.
+![Amazon Cleaned DataSet](https://github.com/user-attachments/assets/de3f2b65-1db0-40a3-95f6-75f6941772d9)
+
   
 ### 2. Pivot Tables
 - I Built multiple pivot tables to answer key business questions: Average discount per category, Product count per category, Total reviews and average ratings by product, Price comparisons and some other relevants KPIs.
+![Pivot Tables 1 and 2](https://github.com/user-attachments/assets/6c115b5f-ada3-4b82-b390-9ff467d98802)
+
 
 ### 3. Charts and Visual Dashboard Design
 - Creation of  clean, user-friendly visualizations using; Column Charts, Bar Charts, Comparison Charts (Actual vs Discounted Prices) and Organized everything into a simple, scrollable dashboard.
+![Amazon Product analysis P1](https://github.com/user-attachments/assets/56d51436-657f-4f4c-ac16-5ca134f6fbc7)
+
 
 # Insights and Recommendations
 
