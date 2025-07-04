@@ -42,7 +42,7 @@ TotalFields: 16 columns   [Download the Excel File](https://github.com/DataGuy-E
 The following process is the skeletal dreakdown of the pathway for the Analysis
 
 ### 1. Data Extraction and Cleaning
-- The Dataset was loaded to Microsoft Excel and the key columns was identified for perfect understanding of the framework of the dataset, after which the data cleaning commenced using ower Query in Excel where duplicate records were removed, proper formatting was applied to each columns, additional calculated colmns were also created.
+- The Dataset was loaded to Microsoft Excel and the key columns was identified for perfect understanding of the framework of the dataset, after which the data cleaning commenced using Power Query in Excel where duplicate records were removed, proper formatting was applied to each columns, additional calculated colmns were also created.
   
 ![Amazon Cleaned DataSet](https://github.com/user-attachments/assets/de3f2b65-1db0-40a3-95f6-75f6941772d9)
 
@@ -97,6 +97,9 @@ The following process is the skeletal dreakdown of the pathway for the Analysis
  
 ![Amazon Project analysis P2](https://github.com/user-attachments/assets/498845a0-0007-470a-a8f8-02070602d98c)
 
+![Product review analysis amazon p3](https://github.com/user-attachments/assets/cfef34ff-386b-445a-9d91-9e166eacb9fa)
+
+
 
 
 ## Recommendations
@@ -107,7 +110,7 @@ The following process is the skeletal dreakdown of the pathway for the Analysis
 - **Promote High-Rated Products**, Leverage reviews and testimonials from top-rated items in campaigns.
 - **Improve Mid-Range Offerings** and enhance product quality in the ₦2001–₦4000 range with slightly lower ratings.
 
----
+---------
 
-![Alt Text](
+
 
