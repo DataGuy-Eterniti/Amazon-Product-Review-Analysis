@@ -26,11 +26,11 @@ TotalFields: 16 columns   [Download the Excel File](https://github.com/DataGuy-E
 ## Analysis Tasks and Key Business Operations (Exploratory Data Analysis)
 
 1. What is the average discount percentage by product category?
-2. How many products are listed under each category?
-3. What is the total number of reviews per category?
-4. Which products have the highest average ratings?
-5. What is the average actual price vs. the discounted price by category?
-6. Which products have the highest number of reviews?
+3. How many products are listed under each category?
+4. What is the total number of reviews per category?
+5. Which products have the highest average ratings?
+6. What is the average actual price vs. the discounted price by category?
+7. Which products have the highest number of reviews?
 
 ## Tools Used
 
